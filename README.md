@@ -11,7 +11,7 @@ This is a Tic Tac Toe game created by Giorge Lucas using HTML, CSS, and JavaScri
 ## How to run the project 🚀
 
 - Option 1: Clone the repository using Git and open the `index.html` file in your web browser.
-- Option 2: Access the deployed version of the website by clicking on this link: <https://nonulldev.github.io/Tic-Tac-Toe/>
+- Option 2: Access the deployed version of the website by clicking on this link: <https://GiorgeLucasDev.github.io/Tic-Tac-Toe/>
 
 ## Resources used 🔧
 
